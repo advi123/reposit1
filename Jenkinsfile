@@ -14,7 +14,7 @@ pipeline {
         {
             steps 
             {
-                echo 'Test app'
+                echo 'Test app1'
             }
         }
         
